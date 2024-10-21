@@ -9,14 +9,14 @@ public class Main {
         System.out.println("Random value: "+random + "\n");
 
         if (random < .5) {
-            System.out.println("It's"+ p1.name+"'s birthday!");
+            System.out.println("It is "+ p1.name+"'s birthday!");
             p1.age++;
-            System.out.println("They turn"+ p1.age+"'s today!");
+            System.out.println("They turn "+ p1.age+"'s today!");
         }
         else {
-            System.out.println("It's"+ p2.name+"'s birthday!");
+            System.out.println("It is "+ p2.name+"'s birthday!");
             p2.age++;
-            System.out.println("They turn"+ p2.age+"'s today!");
+            System.out.println("They turn "+ p2.age+"'s today!");
         }
     }
 }
