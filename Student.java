@@ -10,5 +10,5 @@ public class Student {
         this.grade = grade;
         this.coursegrade = (char) coursegrade;
     }
-
+    //This helps the main java run//
 }
