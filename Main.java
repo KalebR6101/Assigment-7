@@ -18,5 +18,9 @@ public class Main {
             p2.age++;
             System.out.println("They turn "+ p2.age+"'s today!");
         }
+        //It is Jade's birthday!//
+        //They turn 20's today!//
+        //It is Roxanne's birthday!//
+        //They turn 20's today!//
     }
 }
